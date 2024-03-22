@@ -1,6 +1,10 @@
 # Copilot-Predefined-Prompts
 Start Copilot inline chat with predefined prompts - NAB Toolbox
 
+# Input
+## Sometimes one should press twice or more times make rquest button (enter) in order to get the right suggestion 
+![image](https://github.com/nabmilbai/Copilot-Predefined-Prompts/assets/92532625/5f66d282-8e34-41cd-a152-83a695dfbb44)
+
 # Translate field Caption with [SVE] 
 
 ## Step 1
@@ -43,6 +47,7 @@ Start Copilot inline chat with predefined prompts - NAB Toolbox
 ![image](https://github.com/nabmilbai/Copilot-Predefined-Prompts/assets/92532625/f842cd3e-5844-4373-9e82-469783502193)
 
 ## Step 3
+![image](https://github.com/nabmilbai/Copilot-Predefined-Prompts/assets/92532625/08f2c195-5d81-4e0f-97bd-211c5678f597)
 
 # Translate Label with Comment attribute [SVE]
 
