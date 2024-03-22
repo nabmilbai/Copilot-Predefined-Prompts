@@ -1,5 +1,5 @@
 # Copilot-Predefined-Prompts
-Start Copilot inline chat with predefined prompts - NAB Toolbox
+Start Copilot inline chat with predefined prompts - NAB AL Tool
 
 # Input
 ## Sometimes one should press twice or more times make request button (enter) in order to get the right suggestion 
