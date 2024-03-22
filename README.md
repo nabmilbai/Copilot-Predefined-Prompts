@@ -1,9 +1,10 @@
 # Copilot-Predefined-Prompts
 Start Copilot inline chat with predefined prompts - NAB AL Tool
 
-# Input
+# Disclaimer
 ## Sometimes one should press twice or more times make request button (enter) in order to get the right suggestion 
 ![image](https://github.com/nabmilbai/Copilot-Predefined-Prompts/assets/92532625/5f66d282-8e34-41cd-a152-83a695dfbb44)
+
 
 # Translate field Caption with [SVE] 
 
