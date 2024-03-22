@@ -1,6 +1,7 @@
 # Copilot-Predefined-Prompts
 Start Copilot inline chat with predefined prompts
 
+## Translate ToolTip with [SVE] 
 # Step 1
 ![image](https://github.com/nabmilbai/Copilot-Predefined-Prompts/assets/92532625/3c2dfa82-7370-44f6-ab3d-08d236a9852e)
 
